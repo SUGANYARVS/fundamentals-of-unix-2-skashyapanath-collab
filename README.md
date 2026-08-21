@@ -1,1 +1,4 @@
-# PROGRAM-2
+hostnamectl
+sudo hostnamectl set-hostname rvs
+exec bash
+hostnamectl
